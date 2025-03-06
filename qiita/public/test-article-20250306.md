@@ -1,14 +1,15 @@
 ---
 title: テスト記事 (2025/03/06版)
-private: false
 tags:
-  - test
-  - zenn
-  - qiita
-updated_at: '2025-03-06T14:17:10.292Z'
-id: null
+  - Qiita
+  - テスト
+  - Zenn
+private: false
+updated_at: '2025-03-06T23:17:16+09:00'
+id: a44958465d2048f5faee
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # テスト記事
