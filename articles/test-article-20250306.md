@@ -1,5 +1,5 @@
 ---
-title: "テスト記事"
+title: "テスト記事 (2025/03/06版)"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["test", "zenn", "qiita"]
@@ -25,6 +25,10 @@ console.log("Hello, World!");
 ## 追加セクション
 
 この部分を追加して変更を作成しました。GitHubのワークフローがmd形式のファイルの変更を検出するようにするためです。
+
+## 新しいslug
+
+元の記事は「test-article」というslugが既に使用されていたため、日付を追加して新しいslugを作成しました。
 
 ## まとめ
 
