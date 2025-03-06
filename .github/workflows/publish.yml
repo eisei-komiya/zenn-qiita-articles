@@ -30,6 +30,5 @@ jobs:
         uses: C-Naoki/zenn-qiita-sync@main
         with:
           qiita-token: ${{ secrets.QIITA_TOKEN }}
-          ssh-key: ${{ secrets.DEPLOY_KEY }}
           convert-commit-message: "🔄 auto: synchronize qiita articles"
           qiitacli-commit-message: "🔄 auto: update using qiita-cli"
